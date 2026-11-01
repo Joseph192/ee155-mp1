@@ -1,0 +1,12 @@
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": [], "leaf": 1, "mean_auc": 0.8256818807592817, "fold_aucs": [0.814348799386717, 0.831979222509642, 0.830717620381486]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": ["mode"], "leaf": 1, "mean_auc": 0.8257568091128474, "fold_aucs": [0.8165794033799773, 0.828991677553336, 0.8316993464052287]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": [], "leaf": 2, "mean_auc": 0.8249459689258174, "fold_aucs": [0.8163584724355374, 0.8290463277659514, 0.8294331065759637]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": ["mode"], "leaf": 2, "mean_auc": 0.8251129435681506, "fold_aucs": [0.8141544866283542, 0.8312843840921038, 0.8298999599839937]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": [], "leaf": 3, "mean_auc": 0.8242368914062307, "fold_aucs": [0.8152618031691614, 0.8293976505613357, 0.8280512204881951]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": ["mode"], "leaf": 3, "mean_auc": 0.8242479928467189, "fold_aucs": [0.8142050611819007, 0.8295459868527203, 0.8289929305055356]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": [], "leaf": 5, "mean_auc": 0.8230562614377112, "fold_aucs": [0.8137046392836513, 0.828757462356413, 0.8267066826730691]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": ["mode"], "leaf": 5, "mean_auc": 0.8223552418565446, "fold_aucs": [0.81031348237743, 0.8296240585850279, 0.8271281846071762]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": [], "leaf": 10, "mean_auc": 0.8187693574212354, "fold_aucs": [0.8069382963828546, 0.8265766586339529, 0.8227931172468986]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": ["mode"], "leaf": 10, "mean_auc": 0.8200919640003006, "fold_aucs": [0.8059667325910408, 0.8310892047613347, 0.8232199546485262]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": [], "leaf": 20, "mean_auc": 0.8129468576498112, "fold_aucs": [0.7981303386099451, 0.8242423138379543, 0.816467920501534]}
+{"variant": "year_both", "seed": 155, "trees": 400, "max_features": 0.5, "drop": ["mode"], "leaf": 20, "mean_auc": 0.8121473713742527, "fold_aucs": [0.7957453491374377, 0.824247518620108, 0.8164492463652128]}

@@ -1,0 +1,14 @@
+{"variant": "counts", "smoothing": 10, "model": "forest", "seed": 155, "mean_auc": 0.8215416417173308, "fold_aucs": [0.8104039842100921, 0.8279090828653366, 0.8263118580765639]}
+{"variant": "counts", "smoothing": 10, "model": "boosted", "seed": 155, "mean_auc": 0.8158909643297741, "fold_aucs": [0.8004780626219447, 0.8243750357828773, 0.8228197945845004]}
+{"variant": "rates", "smoothing": 2, "model": "forest", "seed": 155, "mean_auc": 0.82107002598535, "fold_aucs": [0.8118626608071167, 0.828986472771182, 0.8223609443777511]}
+{"variant": "rates", "smoothing": 2, "model": "boosted", "seed": 155, "mean_auc": 0.8159869268837742, "fold_aucs": [0.8102442750936295, 0.8237322451868778, 0.8139842603708151]}
+{"variant": "rates", "smoothing": 10, "model": "forest", "seed": 155, "mean_auc": 0.8203127857344704, "fold_aucs": [0.8145697303311569, 0.8273183400908755, 0.8190502867813791]}
+{"variant": "rates", "smoothing": 10, "model": "boosted", "seed": 155, "mean_auc": 0.8148196366679145, "fold_aucs": [0.8052826452088595, 0.8244557099062618, 0.8147205548886222]}
+{"variant": "rates", "smoothing": 50, "model": "forest", "seed": 155, "mean_auc": 0.8213519741936915, "fold_aucs": [0.814942384936236, 0.8278570350437983, 0.8212565026010406]}
+{"variant": "rates", "smoothing": 50, "model": "boosted", "seed": 155, "mean_auc": 0.8153640767715484, "fold_aucs": [0.8044361868916081, 0.8230165876407242, 0.8186394557823129]}
+{"variant": "both", "smoothing": 2, "model": "forest", "seed": 155, "mean_auc": 0.8225173026276292, "fold_aucs": [0.816398399714653, 0.8296969255351817, 0.8214565826330532]}
+{"variant": "both", "smoothing": 2, "model": "boosted", "seed": 155, "mean_auc": 0.8169364537277058, "fold_aucs": [0.8105530460521236, 0.8219209809973403, 0.8183353341336536]}
+{"variant": "both", "smoothing": 10, "model": "forest", "seed": 155, "mean_auc": 0.8219624461740717, "fold_aucs": [0.8141491629911388, 0.8274484596447216, 0.8242897158863545]}
+{"variant": "both", "smoothing": 10, "model": "boosted", "seed": 155, "mean_auc": 0.8162798300550458, "fold_aucs": [0.8101244932562827, 0.8245519983761079, 0.8141629985327465]}
+{"variant": "both", "smoothing": 50, "model": "forest", "seed": 155, "mean_auc": 0.8240424395684349, "fold_aucs": [0.8174711126135599, 0.8306546054514888, 0.8240016006402561]}
+{"variant": "both", "smoothing": 50, "model": "boosted", "seed": 155, "mean_auc": 0.8176801106057913, "fold_aucs": [0.8099993877817203, 0.8234277654308779, 0.8196131786047753]}

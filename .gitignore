@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Not committed: course data/handout, cached OOF predictions, macOS metadata
+data/
+Project_1.pdf
+experiments/oof/
+.DS_Store
+catboost_info/

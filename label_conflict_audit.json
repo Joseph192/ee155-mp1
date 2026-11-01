@@ -1,0 +1,5 @@
+{
+  "conflicting_track_groups": 32,
+  "same_track_oracle_training_auc": 0.9998490142599276,
+  "interpretation": "Uses every training label to assign a track score; not a predictive model or validation result. Conflicting duplicates alone do not establish an AUC ceiling below 0.90."
+}
